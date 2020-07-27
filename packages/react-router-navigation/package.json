@@ -11,7 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/LeoLeBras/react-router-navigation.git"
   },
-  "keywords": ["react-native", "ios", "android", "router", "navigation", "navigator"],
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "router",
+    "navigation",
+    "navigator"
+  ],
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
@@ -20,7 +27,7 @@
   "dependencies": {
     "react-router-navigation-core": "1.0.0-rc.5",
     "react-native-tab-view": "0.0.74",
-    "react-navigation": "1.4.0"
+    "react-navigation": "git+https://github.com/Pilipkin/react-navigation.git#2605265"
   },
   "devDependencies": {
     "flow-bin": "0.56.0",
